@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mrrobot:mrrobot90@cluster0.u1ied.mongodb.net/unosdelova?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret"
+}

@@ -1,0 +1,34 @@
+.add-file-upload {
+    border: 1px solid black;
+    padding: 4vh 8vh;
+}
+.add-image-input {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap; /* 1 */
+    clip-path: inset(50%);
+    border: 0;
+    cursor: pointer;
+}
+.add-file-upload:hover {
+    background-color: grey;
+}
+.left-arrow {
+    margin-right: "4vw"
+}
+.right-arrow {
+    margin-left: "4vw";
+}
+.slider-img-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider-row {
+    display: flex;
+    align-items: center;
+}

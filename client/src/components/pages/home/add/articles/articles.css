@@ -1,0 +1,9 @@
+.article-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10vh;
+    height: 10vh;
+    background-color: yellow;
+    border: 1px solid black;
+}
